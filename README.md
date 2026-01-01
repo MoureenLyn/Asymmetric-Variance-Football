@@ -1,4 +1,4 @@
-# Football-Analytics
+# Asymmetric Varince Football Analytics
 # Project 1: Statsbomb Data Analysis 101
 # 1, Basic introduction on the football data and the differences among various providers
 # 2, Overview of the data providers and how to obtain the data, including the location of the repository of the free data. 
